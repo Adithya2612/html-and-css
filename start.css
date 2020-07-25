@@ -1,4 +1,4 @@
-add.hr-or {
+div.hr-or {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
@@ -8,7 +8,7 @@ add.hr-or {
   line-height: 0px;
 }
 
-add.hr-or:before {
+div.hr-or:before {
   content: 'OR';
   background-color: #fff;
 }
